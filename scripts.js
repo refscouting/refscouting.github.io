@@ -12,15 +12,15 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // Distribute space between the header's paragraph characters
-  const h1Div = document.querySelector('div');
+  const h1Abbr = document.querySelector('abbr');
   let spanChars = '';
-  for(let char of h1Div.textContent) {
+  for(let char of h1Abbr.textContent) {
     spanChars += `<span>${char}</span>`;
   }
-  h1Div.innerHTML = spanChars;
-  h1Div.style.display = 'flex';
-  h1Div.style.justifyContent = 'space-between';
-  
+  h1Abbr.innerHTML = spanChars;
+  h1Abbr.style.display = 'flex';
+  h1Abbr.style.justifyContent = 'space-between';
+
   // Set copyright current year
   // document.querySelector('#year').textContent = new Date().getFullYear();
 });

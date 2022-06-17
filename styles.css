@@ -16,10 +16,16 @@ header {
 
 h1 {
   display: inline-block;
-  font-size: 1.625em;
+  font-size: 1.25em;
   font-weight: 300;
   color: #9acd32;
   margin: 20vh 0 5vh;
+}
+
+abbr {
+  font-size: 2.5em;
+  font-weight: 900;
+  color: #fff;
 }
 
 h1 > span, p span {
@@ -28,7 +34,6 @@ h1 > span, p span {
 
 h1 > span {
   font-weight: 800;
-  letter-spacing: .05em;
 }
 
 h1 ~ p {
