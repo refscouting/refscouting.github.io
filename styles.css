@@ -70,8 +70,17 @@ address p {
   margin: 2.5vh 5%;
 }
 
+address a {
+  line-height: 0;
+  margin: 0 .25em;
+}
+
+address a:first-of-type {
+  margin: 2.5px .25em;
+}
+
 img {
-  width: 32px;
+  width: 28px;
   opacity: .6;
 }
 
