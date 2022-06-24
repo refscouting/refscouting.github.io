@@ -72,7 +72,6 @@ address p {
 
 img {
   width: 32px;
-  border-radius: 50%;
   opacity: .6;
 }
 
@@ -82,7 +81,6 @@ img {
 
 @media (hover: hover) {
   img:hover {
-    background: #9acd32;
     opacity: 1;
   }
 }
