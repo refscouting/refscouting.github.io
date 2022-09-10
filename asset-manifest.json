@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c8bf488.css",
-    "main.js": "/static/js/main.05a10e59.js",
+    "main.css": "/static/css/main.d243b047.css",
+    "main.js": "/static/js/main.f5ab7f00.js",
     "static/media/ninense2.png": "/static/media/ninense2.e68fce901bfffc818710.png",
     "static/media/dragoes-sandinenses2.png": "/static/media/dragoes-sandinenses2.3b3e5be65c0920d3af98.png",
     "static/media/santa-maria1.png": "/static/media/santa-maria1.cd2a4a2bd92823824045.png",
@@ -319,6 +319,7 @@
     "static/media/cabreiros.png": "/static/media/cabreiros.e2b9d675d1cbc5de32b9.png",
     "static/media/sertanense.png": "/static/media/sertanense.c10f4b8b956419e0ebe2.png",
     "static/media/porto-ave.png": "/static/media/porto-ave.6b8343b6b36da37b68ca.png",
+    "static/media/afcoimbra.png": "/static/media/afcoimbra.d9ae20162f958d164767.png",
     "static/media/alcains.png": "/static/media/alcains.a42a39938a266cc33fb0.png",
     "static/media/vilarinho.png": "/static/media/vilarinho.4b8b20c1366b26d09c3b.png",
     "static/media/sobrado.png": "/static/media/sobrado.214d0f9bdb023734e4d0.png",
@@ -382,11 +383,11 @@
     "static/media/amares.png": "/static/media/amares.ae58de296477e4df2eb2.png",
     "static/media/fabril.png": "/static/media/fabril.1ed937961215bcc210a8.png",
     "index.html": "/index.html",
-    "main.3c8bf488.css.map": "/static/css/main.3c8bf488.css.map",
-    "main.05a10e59.js.map": "/static/js/main.05a10e59.js.map"
+    "main.d243b047.css.map": "/static/css/main.d243b047.css.map",
+    "main.f5ab7f00.js.map": "/static/js/main.f5ab7f00.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c8bf488.css",
-    "static/js/main.05a10e59.js"
+    "static/css/main.d243b047.css",
+    "static/js/main.f5ab7f00.js"
   ]
 }
