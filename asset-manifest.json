@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7be1f1e1.css",
+    "main.css": "/static/css/main.6bb351dd.css",
     "main.js": "/static/js/main.bd6189ef.js",
     "static/media/ninense2.png": "/static/media/ninense2.e68fce901bfffc818710.png",
     "static/media/dragoes-sandinenses2.png": "/static/media/dragoes-sandinenses2.3b3e5be65c0920d3af98.png",
@@ -577,11 +577,11 @@
     "static/media/fabril.png": "/static/media/fabril.1ed937961215bcc210a8.png",
     "static/media/academica-sf.png": "/static/media/academica-sf.b1d848d54c412554ed20.png",
     "index.html": "/index.html",
-    "main.7be1f1e1.css.map": "/static/css/main.7be1f1e1.css.map",
+    "main.6bb351dd.css.map": "/static/css/main.6bb351dd.css.map",
     "main.bd6189ef.js.map": "/static/js/main.bd6189ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.7be1f1e1.css",
+    "static/css/main.6bb351dd.css",
     "static/js/main.bd6189ef.js"
   ]
 }
