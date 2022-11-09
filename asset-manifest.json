@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b36140d5.css",
-    "main.js": "/static/js/main.b44c255a.js",
+    "main.css": "/static/css/main.973693a6.css",
+    "main.js": "/static/js/main.265a4b03.js",
     "static/media/ninense2.png": "/static/media/ninense2.e68fce901bfffc818710.png",
     "static/media/dragoes-sandinenses2.png": "/static/media/dragoes-sandinenses2.3b3e5be65c0920d3af98.png",
     "static/media/santa-maria1.png": "/static/media/santa-maria1.cd2a4a2bd92823824045.png",
@@ -734,11 +734,11 @@
     "static/media/louletano.png": "/static/media/louletano.603d02d8567af7f6a9fc.png",
     "static/media/mirandela.png": "/static/media/mirandela.42fdbc43368182a5ff36.png",
     "index.html": "/index.html",
-    "main.b36140d5.css.map": "/static/css/main.b36140d5.css.map",
-    "main.b44c255a.js.map": "/static/js/main.b44c255a.js.map"
+    "main.973693a6.css.map": "/static/css/main.973693a6.css.map",
+    "main.265a4b03.js.map": "/static/js/main.265a4b03.js.map"
   },
   "entrypoints": [
-    "static/css/main.b36140d5.css",
-    "static/js/main.b44c255a.js"
+    "static/css/main.973693a6.css",
+    "static/js/main.265a4b03.js"
   ]
 }
