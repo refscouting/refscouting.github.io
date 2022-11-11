@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2be08350.css",
+    "main.css": "/static/css/main.1ad9fcdd.css",
     "main.js": "/static/js/main.a6ea5149.js",
     "static/media/ninense2.png": "/static/media/ninense2.e68fce901bfffc818710.png",
     "static/media/dragoes-sandinenses2.png": "/static/media/dragoes-sandinenses2.3b3e5be65c0920d3af98.png",
@@ -734,11 +734,11 @@
     "static/media/louletano.png": "/static/media/louletano.603d02d8567af7f6a9fc.png",
     "static/media/mirandela.png": "/static/media/mirandela.42fdbc43368182a5ff36.png",
     "index.html": "/index.html",
-    "main.2be08350.css.map": "/static/css/main.2be08350.css.map",
+    "main.1ad9fcdd.css.map": "/static/css/main.1ad9fcdd.css.map",
     "main.a6ea5149.js.map": "/static/js/main.a6ea5149.js.map"
   },
   "entrypoints": [
-    "static/css/main.2be08350.css",
+    "static/css/main.1ad9fcdd.css",
     "static/js/main.a6ea5149.js"
   ]
 }
