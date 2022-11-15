@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.67502352.css",
-    "main.js": "/static/js/main.277d7d1e.js",
+    "main.js": "/static/js/main.63af3f02.js",
     "static/media/ninense2.png": "/static/media/ninense2.e68fce901bfffc818710.png",
     "static/media/dragoes-sandinenses2.png": "/static/media/dragoes-sandinenses2.3b3e5be65c0920d3af98.png",
     "static/media/santa-maria1.png": "/static/media/santa-maria1.cd2a4a2bd92823824045.png",
@@ -62,7 +62,7 @@
     "static/media/espinho2.png": "/static/media/espinho2.7f726a38269612a29371.png",
     "static/media/aparecida2.png": "/static/media/aparecida2.504d180628a4f6999aea.png",
     "static/media/pevidem2.png": "/static/media/pevidem2.a991bd96243a56141158.png",
-    "static/media/valonguense1.png": "/static/media/valonguense1.7e8b506cc92866feff42.png",
+    "static/media/ud-valonguense1.png": "/static/media/ud-valonguense1.7e8b506cc92866feff42.png",
     "static/media/sandinenses1.png": "/static/media/sandinenses1.7f6372304899e8924342.png",
     "static/media/esperanca-lagos2.png": "/static/media/esperanca-lagos2.ceb080f45d260a1c6f18.png",
     "static/media/amares1.png": "/static/media/amares1.897480c4459ca02c0674.png",
@@ -81,7 +81,7 @@
     "static/media/santa-maria2.png": "/static/media/santa-maria2.ad8798d2839cfb81cffd.png",
     "static/media/varzim-b2.png": "/static/media/varzim-b2.0833aa76395e4cee125c.png",
     "static/media/sernache2.png": "/static/media/sernache2.98737734b2c83e3ad998.png",
-    "static/media/valonguense2.png": "/static/media/valonguense2.22ae039a7970f1626733.png",
+    "static/media/ud-valonguense2.png": "/static/media/ud-valonguense2.22ae039a7970f1626733.png",
     "static/media/mocidade1.png": "/static/media/mocidade1.1362985f28b0bd56f019.png",
     "static/media/sintrense2.png": "/static/media/sintrense2.17884a8ba7f5c15acc32.png",
     "static/media/marinhas1.png": "/static/media/marinhas1.433731371d33298d00ab.png",
@@ -537,11 +537,12 @@
     "static/media/vicente-pereira.png": "/static/media/vicente-pereira.765d24f45e8c27ff5a98.png",
     "static/media/pevidem.png": "/static/media/pevidem.ccd4d02f0e478fda7ed7.png",
     "static/media/castrense.png": "/static/media/castrense.1cb2ebd17694edb2207b.png",
-    "static/media/valonguense.png": "/static/media/valonguense.912bdaf226da53d95227.png",
+    "static/media/ad-valonguense.png": "/static/media/ad-valonguense.88fdbd208a7b6a70a7ce.png",
     "static/media/marinhas.png": "/static/media/marinhas.3e52fe18d157e80f940a.png",
     "static/media/carapinheirense.png": "/static/media/carapinheirense.e1da6d92d1d15e049d3f.png",
     "static/media/milfontes.png": "/static/media/milfontes.ea2164c52c80e5fff03d.png",
     "static/media/amiense.png": "/static/media/amiense.dbc6a09b4f6c6c7c4388.png",
+    "static/media/ud-valonguense.png": "/static/media/ud-valonguense.912bdaf226da53d95227.png",
     "static/media/afaveiro.png": "/static/media/afaveiro.c059c4328e67545aeb19.png",
     "static/media/beneditense.png": "/static/media/beneditense.db6f76e9b6ba22fd8d72.png",
     "static/media/sintrense.png": "/static/media/sintrense.0ea6434b8b34fe346b63.png",
@@ -768,10 +769,10 @@
     "static/media/mirandela.png": "/static/media/mirandela.42fdbc43368182a5ff36.png",
     "index.html": "/index.html",
     "main.67502352.css.map": "/static/css/main.67502352.css.map",
-    "main.277d7d1e.js.map": "/static/js/main.277d7d1e.js.map"
+    "main.63af3f02.js.map": "/static/js/main.63af3f02.js.map"
   },
   "entrypoints": [
     "static/css/main.67502352.css",
-    "static/js/main.277d7d1e.js"
+    "static/js/main.63af3f02.js"
   ]
 }
