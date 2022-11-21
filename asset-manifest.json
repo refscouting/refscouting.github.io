@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3375401c.css",
-    "main.js": "/static/js/main.179784fc.js",
+    "main.js": "/static/js/main.2130aeef.js",
     "static/media/ninense2.png": "/static/media/ninense2.e68fce901bfffc818710.png",
     "static/media/dragoes-sandinenses2.png": "/static/media/dragoes-sandinenses2.3b3e5be65c0920d3af98.png",
     "static/media/santa-maria1.png": "/static/media/santa-maria1.cd2a4a2bd92823824045.png",
@@ -804,10 +804,10 @@
     "static/media/mirandela.png": "/static/media/mirandela.42fdbc43368182a5ff36.png",
     "index.html": "/index.html",
     "main.3375401c.css.map": "/static/css/main.3375401c.css.map",
-    "main.179784fc.js.map": "/static/js/main.179784fc.js.map"
+    "main.2130aeef.js.map": "/static/js/main.2130aeef.js.map"
   },
   "entrypoints": [
     "static/css/main.3375401c.css",
-    "static/js/main.179784fc.js"
+    "static/js/main.2130aeef.js"
   ]
 }
