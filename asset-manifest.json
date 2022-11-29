@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f58af585.css",
+    "main.css": "/static/css/main.a4f01aa9.css",
     "main.js": "/static/js/main.f41783ed.js",
     "static/media/foz-coa2.png": "/static/media/foz-coa2.552247841ddaeff5d7a1.png",
     "static/media/ninense2.png": "/static/media/ninense2.e68fce901bfffc818710.png",
@@ -874,11 +874,11 @@
     "static/media/louletano.png": "/static/media/louletano.603d02d8567af7f6a9fc.png",
     "static/media/mirandela.png": "/static/media/mirandela.42fdbc43368182a5ff36.png",
     "index.html": "/index.html",
-    "main.f58af585.css.map": "/static/css/main.f58af585.css.map",
+    "main.a4f01aa9.css.map": "/static/css/main.a4f01aa9.css.map",
     "main.f41783ed.js.map": "/static/js/main.f41783ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.f58af585.css",
+    "static/css/main.a4f01aa9.css",
     "static/js/main.f41783ed.js"
   ]
 }
